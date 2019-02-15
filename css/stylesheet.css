@@ -63,7 +63,7 @@ header a:hover{
 /* showcase */
 #showcase{
   min-height: 480px;
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://garcesconstruction.github.io/img/HouseR.png) no-repeat 250px 20px;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://garcesconstruction.github.io/img/HouseR.png") no-repeat 250px 20px;
   text-align: center;
   text-transform: uppercase;
   color: #e8491d;
